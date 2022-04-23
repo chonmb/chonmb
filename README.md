@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm chonmb, a imaginative coder, also just a dog made by vegetable (🍀🐶).
+Hi, I'm chonmb, an imaginative programmer who is constantly learning.
 
 - 🏫 I'm currently studying in ecnu.
 - 🌱 I’m currently learning Distributed Machine Learning (DML).
